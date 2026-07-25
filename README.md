@@ -1,6 +1,6 @@
 # Hi, I'm Jasmine 👋
 
-I'm a Computer Science student at San José State University interested in Software Engineering and Machine Learning. I'm passionate about building AI-powered applications, learning new technologies, and solving real-world problems through software.
+I'm a Computer Science student at San José State University interested in Software Engineering and Machine Learning. I'm passionate about building AI powered applications, learning new technologies, and exploring software through interesting projects.
 
 ## 🎓 Education
 
@@ -32,19 +32,6 @@ Machine learning models for wildfire prediction using Logistic Regression, Rando
 - Java
 - HTML/CSS/JavaScript
 - SQL
-
-**Frameworks & Libraries**
-- PyTorch
-- React
-- Pandas
-- NumPy
-- OpenCV
-- MediaPipe
-- ROS 2
-
-**Tools**
-- VS Code
-- Jupyter Notebook
 
 ## 📫 Contact
 📧 jasminemo0366@gmail.com
