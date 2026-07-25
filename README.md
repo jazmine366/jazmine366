@@ -8,10 +8,6 @@ Computer Science student at San José State University pursuing Software Enginee
 - 🤟 ASL Sign Recognition – Real-time sign language recognition using MediaPipe & PyTorch
 - 🔥 Wildfire Detection ML – Machine learning models for wildfire prediction
 
-## 🛠 Tech Stack
-
-**Languages:** Python • Java • JavaScript • SQL
-
 ## 📫 Contact
 
 📧 jasminemo0366@gmail.com
