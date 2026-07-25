@@ -6,11 +6,11 @@ Junior Computer Science student at San José State University aspiring to become
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🃏 **Poker Master** | Full stack poker training platform | Developing
-| 🤟 **ASL Sign Recognition** | Real-time sign language recognition using MediaPipe & PyTorch | Developing
-| 🔥 **Wildfire Detection ML** | Machine learning models for wildfire prediction |
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🃏 **Poker Master** | Full stack poker training platform | 🚧 In Progress |
+| 🤟 **ASL Sign Recognition** | Real time sign language recognition using MediaPipe & PyTorch | 🚧 In Progress |
+| 🔥 **Wildfire Detection ML** | Machine learning models for wildfire prediction | ✅ Completed |
 
 ---
 
