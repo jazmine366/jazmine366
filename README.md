@@ -1,6 +1,6 @@
 # Hi, I'm Jasmine 👋
 
-Junior Computer Science student at San José State University aspiring to become a Software Engineer with an interest in Machine Learning.
+Junior Computer Science student passionate about Software Engineering and Machine Learning.
 
 ---
 
