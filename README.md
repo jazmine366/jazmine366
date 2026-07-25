@@ -17,24 +17,20 @@ I'm a Computer Science student at San José State University interested in Softw
 ## 🚀 Featured Projects
 
 ### 🃏 Poker Master
-A full-stack poker training platform that helps beginners improve decision making through interactive strategy tools and hand analysis.
+A full stack poker training platform that helps beginners improve decision making through interactive strategy tools and hand analysis.
 
 ### 🤟 ASL Sign Recognition
-Real-time American Sign Language recognition using MediaPipe and PyTorch.
+Real time American Sign Language recognition using MediaPipe and PyTorch.
 
 ### 🔥 Wildfire Detection ML
 Machine learning models for wildfire prediction using Logistic Regression, Random Forest, and MLP.
-
-### 🔐 Password Strength Checker
-A password analysis tool that evaluates password strength and generates secure passwords.
 
 ## 🛠 Tech Stack
 
 **Languages**
 - Python
 - Java
-- C
-- JavaScript
+- HTML/CSS/JavaScript
 - SQL
 
 **Frameworks & Libraries**
@@ -47,19 +43,11 @@ A password analysis tool that evaluates password strength and generates secure p
 - ROS 2
 
 **Tools**
-- Git
-- GitHub
-- Linux
-- Docker
 - VS Code
 - Jupyter Notebook
 
 ## 📫 Contact
-
 📧 jasminemo0366@gmail.com
 
 💼 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasmine-77a88b99c/)
-
-## 📈 GitHub Stats
-![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazmine366&show_icons=true)
